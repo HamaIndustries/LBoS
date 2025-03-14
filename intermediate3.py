@@ -96,7 +96,7 @@ all semaphores are signalled for the next batch.
 
 This functionality is generalized to any recipe, not just h20.
 """
-def p5_4():
+def p5_6():
     h20_recipe = {
         "hydrogen": 2,
         "oxygen": 1
